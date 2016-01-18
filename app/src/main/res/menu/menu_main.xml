@@ -1,0 +1,15 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools" tools:context=".MainActivity">
+
+    <item
+        android:id="@+id/login"
+        android:title="로그인" />
+    <item
+        android:id="@+id/info"
+        android:title="등산로 정보 보기" />
+    <item
+        android:id="@+id/recode"
+        android:title="정보 기록하기" />
+
+</menu>
